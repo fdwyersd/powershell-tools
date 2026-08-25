@@ -215,6 +215,4 @@ Its job is simple:
 
 ## License
 
-Add the license you want to use for this repository here.
-
-For a small open-source utility, the MIT License is a common choice.
+MIT License 
